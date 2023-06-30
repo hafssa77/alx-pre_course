@@ -1,2 +1,2 @@
 other readme for 0x01-git
-updated from github interface
+up dated from github interface
